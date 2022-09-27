@@ -1,7 +1,7 @@
 # What is Smartsheet?
 
 
-[![what is smartsheet](getstart.png)](https://github.com/tech-webie/what.is.smartsheet)
+[![what is smartsheet](redd.png)](https://github.com/tech-webie/what.is.smartsheet)
 
 
 Smartsheet is an online project management solution that claims to be the modern alternative to traditional project management tools like Microsoft Project. Smartsheet focuses more on the collaborative aspects of project management, whereas traditional tools tend to focus more on schedules and tasks. That’s not to say that you can’t manage tasks and schedules in Smartsheet; you can. It means that collaboration functionality is baked into Smartsheet and is readily available to use with your schedules and tasks, whereas if you use Microsoft Project to manage a project, you have to use other means for collaboration.
